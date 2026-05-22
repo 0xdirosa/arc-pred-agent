@@ -189,3 +189,14 @@ Submission deadline: May 25, 2026
 
 MIT
 ENDOFFILE
+
+---
+
+## Changelog
+
+### v1.1.0
+- Integrated Circle Developer Wallets SDK for Arc wallet management
+- Treasury wallet created via Circle on Arc Testnet
+- Reputation recording now via Circle SDK (not raw private key)
+- Added Groq LLaMA 3.1 8B as fallback model
+- 23+ autonomous paper trades with on-chain Arc TX hashes
