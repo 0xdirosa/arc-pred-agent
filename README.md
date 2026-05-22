@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🔮 Arc Prediction Market Agent
 
 > AI-powered prediction market trading agent built on Arc Testnet for the **Agora Hackathon** by Canteen × Circle × Arc.
